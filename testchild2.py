@@ -1,2 +1,2 @@
-#creating the second branch from main branch
+#updating the branch  testchild2 located in main branch
 print("This is my branch!")
